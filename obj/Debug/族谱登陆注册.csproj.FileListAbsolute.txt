@@ -1,0 +1,12 @@
+C:\Users\16439\source\repos\族谱登陆注册\bin\Debug\族谱登陆注册.exe.config
+C:\Users\16439\source\repos\族谱登陆注册\bin\Debug\族谱登陆注册.exe
+C:\Users\16439\source\repos\族谱登陆注册\bin\Debug\族谱登陆注册.pdb
+C:\Users\16439\source\repos\族谱登陆注册\obj\Debug\族谱登陆注册.csprojAssemblyReference.cache
+C:\Users\16439\source\repos\族谱登陆注册\obj\Debug\族谱登陆注册.登陆注册.resources
+C:\Users\16439\source\repos\族谱登陆注册\obj\Debug\族谱登陆注册.Properties.Resources.resources
+C:\Users\16439\source\repos\族谱登陆注册\obj\Debug\族谱登陆注册.注册.resources
+C:\Users\16439\source\repos\族谱登陆注册\obj\Debug\族谱登陆注册.登录.resources
+C:\Users\16439\source\repos\族谱登陆注册\obj\Debug\族谱登陆注册.csproj.GenerateResource.cache
+C:\Users\16439\source\repos\族谱登陆注册\obj\Debug\族谱登陆注册.csproj.CoreCompileInputs.cache
+C:\Users\16439\source\repos\族谱登陆注册\obj\Debug\族谱登陆注册.exe
+C:\Users\16439\source\repos\族谱登陆注册\obj\Debug\族谱登陆注册.pdb
